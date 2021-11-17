@@ -1,4 +1,4 @@
-#Eliza Chatbot
+This is a build of the Eliza chatbot with basic message recongnition and responses.
 
 In order to chat with Eliza, load and compile the program into your preferred 
 clisp environment (I used the Portacle IDE), and simply type what you would 
